@@ -1,0 +1,12 @@
+<html lang = "en">
+  <head>
+    <title>Website Project</title>
+    <link rel = "stylesheet" herf = "stylessheet.css">
+  </head>
+  <body>
+    <h1>Heading 1 example </h1>
+    <h1>Another Heading 1 </h1>
+    <a herf = "accessibility.html"> Accessibility Considerations </a>
+  </body>
+
+</html>
