@@ -1,3 +1,4 @@
-h1 { color: purple }
-p { bakground-color: EBEBEB;
-  color: 612EAD;}
+body {
+    background-color: #FFFFFF; 
+    color: #18632E;            
+}
