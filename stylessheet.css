@@ -1,18 +1,4 @@
-#body {
-    #background-color: #FFFFFF; 
-    #color: #18632E;            
-#}
-body {background-color: green}
-h1 { color: red }
-P { background-color: blue;
-    color: yellow;
-  }
-
-ul, ol {
-    background-color: gray;
-    color: white;
-    font-weight: bold;
-}
-@media (max width:500px){
-    body{ background-color: yellow; font:red}
+body {
+    background-color: #FFFFFF;
+    color: #0000FF
 }
